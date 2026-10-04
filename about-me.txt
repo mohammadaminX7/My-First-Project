@@ -1,1 +1,7 @@
+Hello World!
 
+My name is Amin.
+I am learning GitHub.
+My goal is to learn Artificial Intelligence.
+
+This is my first project.
